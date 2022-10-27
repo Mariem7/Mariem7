@@ -6,7 +6,7 @@ I am a 3rd year software engineering student, I am interested in web development
 Therefore, I dedicated so much time in learning and working with different frameworks such as <strong>Angular, Spring Boot, Spring Security, Spring Data JPA and Spring Cloud...</strong>
 </p>
 
-- 🌱 I’m currently learning **Elastic Search, Kibana**
+- 🌱 I’m currently learning **Elastic Search**
 
 - 💬 Ask me about **Java, Spring boot, Spring Security, Spring Data JPA, Spring Could, Typescript, Angular**
 
