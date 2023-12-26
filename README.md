@@ -1,14 +1,11 @@
-<h1>Hi 👋, I'm Mariem Neili</h1>
-<h3>A Software Engineering Student from Tunisia</h3>
+<h1>Hi there! 👋 I'm Mariem Neili</h1>
+<h3>A Software Engineer passionate about Web Development and DevOps</h3>
 <img align="right" width="300" alt="coding" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 <p>
-I am a 3rd year software engineering student, I am interested in web development. Motivated for the mastery and discovery of new technologies for the realization of projects.
-Therefore, I dedicated so much time in learning and working with different frameworks such as <strong>Angular, Spring Boot, Spring Security, Spring Data JPA and Spring Cloud...</strong>
+I'm a Software Engineer who is passionate about creating outstanding web experiences and optimizing development operations through DevOps methods. My path in software engineering has taken me through several frameworks, including <strong>Angular, Spring Boot, Spring Security, Spring Data JPA, and Spring Cloud...</strong>. I'm excited to learn new technologies so I can lead creative initiatives and expedite the development process.
 </p>
 
-- 🌱 I’m currently learning **Elastic Search**
-
-- 💬 Ask me about **Java, Spring boot, Spring Security, Spring Data JPA, Spring Could, Typescript, Angular**
+- 💬 Ask me about **Java, Spring boot, Spring Security, Spring Data JPA, Spring Could, Typescript, Angular, Kubernetes, Docker**
 
 - 📫 How to reach me **mariemneili7@gmail.com**
 
